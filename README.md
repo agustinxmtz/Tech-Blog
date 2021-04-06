@@ -4,10 +4,10 @@
 The blog allows users to create accounts and log in where they can then create new blog posts or comment on existing ones. Logged in users can also edit or delete their own posts. Users do not need to be logged into read blog posts.
 
 ### Screenshot
-![Image of homepage]()
+![Image of homepage](./assets/images/techblog.png)
 
 ### Link
-[my tech blog]()
+[my tech blog](https://frozen-cliffs-42253.herokuapp.com/)
 
 ## Questions
 If you have questions, feel free to contact me here:
