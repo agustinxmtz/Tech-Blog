@@ -1,7 +1,7 @@
 # TECH BLOG
 
 ## Description
-A CMS-style blog for developers to write about technology. New users can read posts on the homepage, but must sign up in order to interact with the site. The dark theme is applied with developers eyes in mind.
+The blog allows users to create accounts and log in where they can then create new blog posts or comment on existing ones. Logged in users can also edit or delete their own posts. Users do not need to be logged into read blog posts.
 
 ### Screenshot
 ![Image of homepage]()
